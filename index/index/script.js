@@ -244,4 +244,3 @@ themeToggleButton.addEventListener('click', toggleTheme);
 
 // Початковий запуск
 startQuiz();
-
